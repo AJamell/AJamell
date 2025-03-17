@@ -6,7 +6,7 @@ I'm a Computer Science student at Moravian University, graduating in May 2027. E
 - Currently learning DevOps, Cybersecurity, and Software Engineering
 - Building applications in Python, Java
 - Interested in Cloud Computing, DevOps, and Cybersecurity
-- Developing a Discord Trivia Bot with Redis integration
+- Developed a Discord Trivia Bot with Redis integration
 - Love 3D printing and tinkering with new tech
 
 ## Tech Stack

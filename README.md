@@ -3,10 +3,8 @@
 ## About Me
 I'm a Computer Science student at Moravian University, graduating in May 2027. Experience in software development and database systems. Actively applying my skills through coursework and projects. 
 
-- Currently learning DevOps, Cybersecurity, and Software Engineering
 - Building applications in Python, Java
-- Interested in Cloud Computing, DevOps, and Cybersecurity
-- Developed a Discord Trivia Bot with Redis integration
+- Interested in Cloud Computing, DevOps, and 3dPrinting 
 - Love 3D printing and tinkering with new tech
 
 ## Tech Stack
@@ -21,6 +19,12 @@ I'm a Computer Science student at Moravian University, graduating in May 2027. E
 - Built a Discord bot to deliver engaging NBA trivia games, featuring score tracking, user commands, and winner announcements.
 - Designed modular architecture with Redis for seamless scalability and easy database replacement or migration.
 
+### [Anagram Word Bot](https://github.com/AJamell/AnagramWordBot)
+- Built a multiplayer Discord bot that challenges two players to solve anagrams and tracks scores in real-time.
+- Implemented four deployment strategies: Local Machine, Local VM (Docker compose + Amazon Linux), EC2 with Docker, and EC2 with systemd (No Containers).
+- Created Bash scripts to automate building, redeploying, and restarting services across different environments.
+- Integrated GitHub Actions for continuous deployment and consistent version control across production pipelines.
+
 ### F1 Racing Database Analysis
 - Created a relational database hosted on AWS RDS to analyze Formula 1 data, including drivers, teams, and race results.
 - Designed a normalized MySQL schema to handle complex queries efficiently.
@@ -30,6 +34,6 @@ I'm a Computer Science student at Moravian University, graduating in May 2027. E
 - MongoDB: Introduction to MongoDB
 
 ## Connect With Me
-- LinkedIn: [Jamell's LinkedIn](www.linkedin.com/in/jamell-alvarez-89b79a306)
+- LinkedIn: [Jamell's LinkedIn](www.linkedin.com/in/jamellalvarez)
 - Email: jamell14@outlook.com
 

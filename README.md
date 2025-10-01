@@ -1,18 +1,13 @@
 # Hi there, I'm Jamell
 
 ## About Me
-I'm a Computer Science student at Moravian University, graduating in May 2027. Experience in software development and database systems. Actively applying my skills through coursework and projects. 
-
-- Building applications in Python, Java
-- Interested in Cloud Computing, DevOps, and 3dPrinting 
-- Love 3D printing and tinkering with new tech
+I'm a Computer Science student at Moravian University, graduating in May 2027. Experienced in Cloud Computing, DevOps, and 3d Printing. Actively applying my skills through coursework and projects. 
 
 ## Tech Stack
-- Languages: Python, Java, SQL (MySQL, MongoDB)
-- Tools & Frameworks: AWS (EC2, RDS),Git, Redis
-- Cloud & DevOps: CI/CD, Linux
-- Databases: MySQL, MongoDB, Redis
-- Software Development: Agile Development, Software Engineering Principles
+- Languages: Java, Python, Javascript
+- Tools & Frameworks: AWS (EC2, RDS), Git
+- Cloud & DevOps: CI/CD, Linux, Bash/Shell
+- Databases:  Redis, MySQL, MongoDB
 
 ## Projects
 ### [NBA Trivia Bot](https://github.com/AJamell/NBADiscordBot)

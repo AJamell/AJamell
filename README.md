@@ -5,9 +5,9 @@ I'm a Computer Science student at Moravian University, graduating in May 2027. E
 
 ## Tech Stack
 - Languages: Java, Python, Javascript
-- Tools & Frameworks: AWS (EC2, RDS), Git
+- Tools & Frameworks: AWS (EC2, RDS, S3), Git
 - Cloud & DevOps: CI/CD, Linux, Bash/Shell
-- Databases:  Redis, MySQL, MongoDB
+- Databases:  Redis, MySQL
 
 ## Projects
 ### [NBA Trivia Bot](https://github.com/AJamell/NBADiscordBot)
@@ -23,9 +23,6 @@ I'm a Computer Science student at Moravian University, graduating in May 2027. E
 - Created a relational database hosted on AWS RDS to analyze Formula 1 data, including drivers, teams, and race results.
 - Designed a normalized MySQL schema to handle complex queries efficiently.
 - Implemented stored procedures, triggers, and transactions for better data management.
-
-## Certifications
-- MongoDB: Introduction to MongoDB
 
 ## Connect With Me
 - LinkedIn: [Jamell's LinkedIn](www.linkedin.com/in/jamellalvarez)

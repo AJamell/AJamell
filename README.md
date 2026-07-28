@@ -9,7 +9,4 @@ I'm a Computer Science student at Moravian University, graduating in May 2027. I
 - Cloud & DevOps: CI/CD, Linux, Bash/Shell
 - Databases:  Redis, MySQL, Room
 
-## Connect With Me
-- LinkedIn: [Jamell's LinkedIn](www.linkedin.com/in/jamellalvarez)
-- Email: jamell14@outlook.com
 
